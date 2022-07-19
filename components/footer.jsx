@@ -46,9 +46,9 @@ export default function Footer({ siteSettings }) {
             </a>
           </Link>
       </section>
-      <section className="grid justify-items-center gap-2">
+      <section className="grid justify-items-center justify-center gap-2">
         <p className="!font-normal">©2022 Nicholson & Associates, LLC</p>
-        <p className="!font-normal !text-sm text-center">Created by <Link href="https://www.varial.dev"><a className="no-underline text-[#81A6E4] visited:text-[#81A6E4] font-medium">Varial Web Services</a></Link></p>
+        <p className="!font-normal !text-sm !text-center">Created by <Link href="https://www.varial.dev"><a className="no-underline text-[#81A6E4] visited:text-[#81A6E4] font-medium">Varial Web Services</a></Link></p>
       </section>
     </footer>
     // <footer className="bg-slate-900 text-slate-200 p-4 grid gap-4">

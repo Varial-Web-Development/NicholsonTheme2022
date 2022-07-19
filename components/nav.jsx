@@ -84,7 +84,7 @@ export default function Nav({ siteSettings }) {
             )
           ))}
           <Link href="/forms/free-quote">
-            <a className="no-underline bg-[#8AECC8] text-[#333333] visited:text-[#333333] py-3 px-6 text-[clamp(1rem,_1vw,_24px)] rounded-full w-fit shadow-[0_2px_4px_rgb(0_0_0_/_0.15)]">Get quote</a>
+            <a className="no-underline bg-[#8AECC8] text-[#333333] visited:text-[#333333] py-2.5 px-6 text-[clamp(1rem,_1vw,_21px)] rounded-full w-fit shadow-[0_2px_4px_rgb(0_0_0_/_0.15)]">Get quote</a>
           </Link>
           {/* <span className="hidden lg:inline text-xl text-gray-300">|</span> */}
           <div className="flex gap-4 lg:gap-4 lg:absolute lg:top-5 lg:right-4 items-center mt-0.5">
