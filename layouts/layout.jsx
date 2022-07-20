@@ -2,7 +2,7 @@ import Head from "next/head";
 
 export default function Layout({ children }) {
   return (
-    <div className="font-['Montserrat'] text-[#333333] w-screen max-w-screen overflow-hidden">
+    <div className="font-['Montserrat'] text-[#333333] w-screen max-w-screen">
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
